@@ -1,0 +1,6 @@
+framework module Pods_TwilioChatTest {
+  umbrella header "Pods-TwilioChatTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
